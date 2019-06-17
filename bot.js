@@ -342,6 +342,5 @@ message.channel.sendEmbed(embed)
 
 
 
-client.login(process.env.TOKEN);
-
+client.login(Token)
 
